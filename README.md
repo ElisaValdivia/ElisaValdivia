@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 hola 
+
+<li> <b> 🙋‍♀️ Name: </b> I’m Elisa </li>
+<li> <b> 😄 Profesión: </b> UX and Web Designer</li>
+<li> <b> 🔭 Hobby: </b> I love hiking </li>
 
 <!--
 **ElisaValdivia/ElisaValdivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
