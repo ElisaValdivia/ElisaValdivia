@@ -33,8 +33,9 @@ Cuando no estoy diseñando, me encanta explorar senderos y hacer **hiking** 🏞
 
 ### 📫 ¿Quieres contactarme?
 
+*   **Telefono:** (+52) 5579114302
 *   **Portfolio:** https://www.behance.net/valdiviaelisa 
-*   **LinkedIn:** https://www.linkedin.com/in/elisavaldivia/
+*   **Linkt.ree:** https://linktr.ee/elisavaldivia
 *   **Correo:** elisa_valdivia@icloud.com
 
 ---
